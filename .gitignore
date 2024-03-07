@@ -1,0 +1,52 @@
+# Dependency directories
+/node_modules
+/.pnp
+.pnp.js
+
+# Build directories
+/build
+/dist
+
+# Cache directories
+/.cache
+/.eslintcache
+/.yarn/cache
+/.yarn/unplugged
+
+# Environment files
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Log files
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Editor directories and files
+/.idea
+/.vscode
+/.vs
+*.sublime-project
+*.sublime-workspace
+*.komodoproject
+.komodotools
+.kate-swp
+.idea
+.project
+*.tmproj
+*.esproj
+*.code-workspace
+
+# OS generated files
+.DS_Store
+Thumbs.db
+ehthumbs.db
+Icon?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs_vista.db
+ehthumbs_win7.db
+.DS_Store?
